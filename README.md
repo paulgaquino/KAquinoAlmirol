@@ -1,5 +1,5 @@
 # KAquinoAlmirol
-## Viewing the Past through the Lens of the Future: A Summary on Philippine History
+## Working Title: Viewing the Past through the Lens of the Future: A Summary on Philippine History
 This is a project proposal for CS3 and it will discuss the history of the Philippines. It will discuss the precolonial period, Spanish colonization period, American colonization period, and the Japanese colonization and postwar period. Each subpage will be dedicated to each era, giving a brief but complete summary, accompanied by photos. 
 
 The webpage will be composed of the following: 
