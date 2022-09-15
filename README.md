@@ -8,4 +8,4 @@ The webpage will be composed of the following:
 2. Precolonial Period - This page will focus on the precolonial history of the Philippines. It will talk about the period's culture, religion, beliefs, mythology, language, and ways of life. 
 3. Spanish Colonization Period - This page will focus on the history of Spanish colonization in the Philippines. It will talk about the period's culture, religion, beliefs, mythology, language, and ways of life. 
 4. American Colonization Period - This page will focus on the history of American colonization in the Philippines. It will talk about the period's culture, religion, beliefs, language, and ways of life. 
-5. Japanese Colonization and Postwar Period - This page will focus on the history of Japanese colonization in the Philippines during World War II and the period after that. It will talk about the period's ways of life. 
+5. Japanese Colonization and Postwar Period - This page will focus on the history of Japanese colonization in the Philippines during World War II and the period after that. It will talk about the period's ways of life and what occurred during World War II
