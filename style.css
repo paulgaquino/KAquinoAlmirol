@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+div.title {
+  background-color: #C19A6B;
+  color: #6E260E;
+  
+  text-align: center;
+  font-family: "Lucida Handwriting", cursive;
+}
+
+div.mainpagebody {
+  text-align: justified;
+  font-family:"Lucida Handwriting", cursive;
+}
