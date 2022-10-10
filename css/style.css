@@ -8,10 +8,37 @@ div.title {
   color: #6E260E;
   
   text-align: center;
-  font-family: "Lucida Handwriting", cursive;
+  font-family: "Bodoni MT", Georgia, serif;
 }
 
 div.mainpagebody {
   text-align: justified;
-  font-family:"Lucida Handwriting", cursive;
+  font-family:"Bodoni MT", Georgia, serif
 }
+    
+ .title img {
+  float: left;
+  margin-top:10px;
+  margin-left:20px;
+}
+
+div.title h1 {
+  border-right:5px #6E260E solid;
+  border-left:5px #6E260E solid;
+  border-top:5px #6E260E solid;
+  border-bottom:5px #6E260E solid;
+}
+
+div.left1 {
+  float: left;
+  position: right;
+}
+
+div.left2 {
+  float: left;
+}
+
+div.right {
+  float: right;
+}
+
