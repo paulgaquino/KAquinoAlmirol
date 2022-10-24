@@ -42,3 +42,6 @@ div.right {
   float: right;
 }
 
+body p {
+  text-indent: 10px;
+}
