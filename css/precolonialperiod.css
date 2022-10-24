@@ -19,3 +19,7 @@ p {
 h1, h3, h4, h5 {
   font-family: "Papyrus", fantasy;
 }
+
+body p {
+  text-indent: 10px;
+}
