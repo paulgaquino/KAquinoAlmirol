@@ -1,1 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
 
+body {
+  font-family: Bradley Hand, Brush Script MT, cursive;
+}
+
+p, ol {
+  font-size:20px;
+}
+
+h4{
+  font-size:23px;
+}
+
+h3 {
+  font-size:25px;
+}
+
+body p {
+  text-indent: 10px;
+}
