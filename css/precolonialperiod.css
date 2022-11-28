@@ -1,22 +1,104 @@
 html, body {
   height: 100%;
   width: 100%;
+  background-color:#EADDCA; color:#834333;
 }
 
-body {
-  background-color: #EADDCA;
-  color: #834333;
+nav {
+  background: #834333;
+  float: left;
+ 
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
 }
 
-div.title {
-  text-align: center;
+nav li, nav a {
+  text-decoration:none;
+	color: white;
+	padding: 10px;
+	width: 100px;
+	text-align: center;
+}
+
+nav ul li {
 }
 
 p {
   font-family: "Papyrus", fantasy;
-  text-indent: 20px;
 }
 
 h1, h3, h4, h5 {
   font-family: "Papyrus", fantasy;
+}
+
+h1, h3 {
+  text-align:center;
+}
+
+div {
+  border:7px solid #834333; 
+  overflow:auto;
+}
+
+section {
+  border:7px solid #834333; 
+  overflow:auto;
+  float:right;
+  clear:right;
+  margin-top: 23px;
+}
+
+.link {
+  text-decoration: none;
+  color: blue;
+}
+
+a#linkHocus:link {
+  background-color: red;
+  color: white;
+  padding: 3px 0px;
+}
+
+a#linkPocus:link {
+  background-color: orange;
+  color: white;
+  padding: 3px 0px;
+}
+    
+a#linkHocus:visited {
+  background-color: pink;
+  color: black;
+  padding: 3px 0px;
+}
+    
+a#linkPocus:visited {
+  background-color: pink;
+  color: black;
+  padding: 3px 0px;
+    }
+    
+a#linkHocus:hover {
+  background-color: #A0FFFF;
+  color: black;
+  padding: 3px 0px;
+}
+    
+a#linkPocus:hover {
+  background-color: yellow;
+  color: black;
+  padding: 3px 0px;
+    }  
+    
+a#linkHocus:active {
+  background-color: orange;
+  color: black;
+  padding: 3px 0px;
+}
+    
+a#linkPocus:active {
+  background-color: blueviolet;
+  color: black;
+  padding: 3px 0px;
 }
