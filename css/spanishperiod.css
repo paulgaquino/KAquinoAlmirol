@@ -1,14 +1,25 @@
 html, body {
   height: 100%;
   width: 100%;
+  font-family: Bradley Hand, Brush Script MT, cursive;
+  background-color:#EADDCA; 
 }
 
-body {
-  font-family: "Bradley Hand", "Brush Script MT", cursive;
+body p {
+  text-indent: 10px;
+}
+
+h1 {
+  font-size:50px;
+  overflow:auto;
 }
 
 p, ol {
   font-size:20px;
+}
+
+h1, h2, h3 {
+  text-align:center;
 }
 
 h4{
@@ -19,6 +30,12 @@ h3 {
   font-size:25px;
 }
 
-body p {
-  text-indent: 10px;
+div {
+  background-color:#EADDCA; 
+  color:#834333;
+  border:7px solid #834333;
 }
+
+p {
+  text-align:left; 
+  float:right;
