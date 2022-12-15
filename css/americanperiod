@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #C19A6B;
+  font-family: "Georgia", Bodoni MT, serif;
+  color: #6E260E;
+}
+
+h1, h2 {
+  text-align:center;
+}
+
+#caption {
+  text-align:center;
+}
