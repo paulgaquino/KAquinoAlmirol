@@ -5,25 +5,27 @@ html, body {
 }
 
 nav {
-  background: #834333;
-  float: left;
- 
+  background: #955c2b;
 }
+
 nav ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
+    overflow: hidden;
+
 }
 
 nav li, nav a {
   text-decoration:none;
 	color: white;
-	padding: 10px;
-	width: 100px;
+	margin: 0px;
 	text-align: center;
+  display: inline-block;
+  padding-right: 90px;
 }
 
-nav ul li {
-}
+
 
 p {
   font-family: "Papyrus", fantasy;
@@ -40,6 +42,7 @@ h1, h3 {
 div {
   border:7px solid #834333; 
   overflow:auto;
+  
 }
 
 section {
@@ -101,4 +104,15 @@ a#linkPocus:active {
   background-color: blueviolet;
   color: black;
   padding: 3px 0px;
+}
+
+.sprite {
+	background: url('imgs/button.jpg') no-repeat -110px -110px;
+	width: 586px;
+	height: 580px;
+}
+
+.button1, .button2 {
+  height:100px;
+  width:100px;
 }
