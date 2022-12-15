@@ -13,3 +13,14 @@ h1, h2 {
 #caption {
   text-align:center;
 }
+
+.sprite {
+	background: url('imgs/button.jpg') no-repeat -110px -110px;
+	width: 586px;
+	height: 580px;
+}
+
+.button1 {
+  height:100px;
+  width:100px;
+}
