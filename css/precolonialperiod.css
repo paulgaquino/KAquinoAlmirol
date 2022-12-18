@@ -6,6 +6,7 @@ html, body {
 
 nav {
   background: #955c2b;
+  float:right;
 }
 
 nav ul {
@@ -13,14 +14,15 @@ nav ul {
     padding: 0;
     margin: 0;
     overflow: hidden;
+    width:100px;
 
 }
 
 nav li, nav a {
   text-decoration:none;
-	color: white;
-	margin: 0px;
-	text-align: center;
+  color: white;
+  margin: 0px;
+  text-align: center;
   display: inline-block;
   padding-right: 90px;
 }
