@@ -6,7 +6,9 @@ html, body {
 
 nav {
   background: #955c2b;
-  float:right;
+  float: right;
+  width: 100px;
+  length: 50px;
 }
 
 nav ul {
@@ -14,8 +16,6 @@ nav ul {
     padding: 0;
     margin: 0;
     overflow: hidden;
-    width:100px;
-
 }
 
 nav li, nav a {
@@ -26,8 +26,6 @@ nav li, nav a {
   display: inline-block;
   padding-right: 90px;
 }
-
-
 
 p {
   font-family: "Papyrus", fantasy;
@@ -82,7 +80,7 @@ a#linkPocus:visited {
   background-color: pink;
   color: black;
   padding: 3px 0px;
-    }
+}
     
 a#linkHocus:hover {
   background-color: #A0FFFF;
@@ -94,7 +92,7 @@ a#linkPocus:hover {
   background-color: yellow;
   color: black;
   padding: 3px 0px;
-    }  
+}  
     
 a#linkHocus:active {
   background-color: orange;
@@ -109,9 +107,9 @@ a#linkPocus:active {
 }
 
 .sprite {
-	background: url('imgs/button.jpg') no-repeat -110px -110px;
-	width: 586px;
-	height: 580px;
+  background: url('imgs/button.jpg') no-repeat -110px -110px;
+  width: 586px;
+  height: 580px;
 }
 
 .button1, .button2 {
